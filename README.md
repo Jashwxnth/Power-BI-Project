@@ -68,7 +68,7 @@ You can view the live HR Data Analytics Dashboard [here](https://app.powerbi.com
 ## Data Sources
 The dashboard seamlessly collects and utilizes data from two primary sources:
 
-**Excel File:** Targets, Market Share data, and related information are sourced from [Excel/CSV files](https://github.com/Jashwxnth/Power-BI-Project/blob/main/HR%20Analytics%20Data.xlsx).
+**Excel File:** You can export this file to PowerBI Dashboard and start from Cleaning State... [Excel/CSV files](https://github.com/Jashwxnth/Power-BI-Project/blob/main/HR%20Analytics%20Data.xlsx).
 
 ### Hit a follow button 👆
 
