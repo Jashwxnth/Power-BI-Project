@@ -70,9 +70,5 @@ The dashboard seamlessly collects and utilizes data from two primary sources:
 
 **Excel File:** Targets, Market Share data, and related information are sourced from [Excel/CSV files](https://github.com/Jashwxnth/Power-BI-Project/blob/main/HR%20Analytics%20Data.xlsx).
 
-
-### Prerequisites
-- [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
-- [DAX Studio](https://daxstudio.org/)
-
+### Hit a follow button 👆
 
